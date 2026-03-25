@@ -10,19 +10,19 @@
 ```
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=120&lines=Full-Stack+%26+Mobile+Engineer+%F0%9F%9A%80;Founder+%40+CODEMZ+%7C+Building+the+Future;50%2B+Projects+Delivered+%7C+250K%24+Revenue;2.9M%2B+Requests+Handled+Under+Load" alt="Typing SVG" />
-
-<br/>
+<div align="center">
 
 <a href="mailto:ziad05za@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ziad-74&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 
+<a href="https://www.linkedin.com/in/ziad-ayman-0036b2397">
+  <img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ziad-74&style=for-the-badge&color=00D9FF&label=VIEWS" />
+
+</div>
 </div>
 
 ---
@@ -78,12 +78,7 @@ const ziad = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziad-74&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziad-74&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="160"/>
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ziad-74&theme=dracula&hide_border=true" height="150"/>
@@ -94,7 +89,7 @@ const ziad = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ziad-74&theme=darkhub&no-frame=true&margin-w=4&row=1" />
+<img src="https://gh-profile-trophy.vercel.app/?username=ziad-74&theme=onedark&no-frame=true&no-bg=true" />
 </div>
 
 ---
