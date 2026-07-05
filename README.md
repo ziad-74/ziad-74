@@ -61,7 +61,7 @@ const ziad = {
 
 | 🚀 Projects | 💰 Revenue | 📊 Requests | 🌍 Markets |
 |:-----------:|:----------:|:-----------:|:----------:|
-| **50+** | **~$250K USD** | **2.9M+** | **3 Countries** |
+| **50+** | **~$300K USD** | **2.9M+** | **3 Countries** |
 | Production-grade | Generated for clients | Handled at scale | KSA · Kuwait · Egypt |
 
 </div>
